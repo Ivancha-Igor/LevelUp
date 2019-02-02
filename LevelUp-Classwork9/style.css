@@ -3,6 +3,11 @@
   animation-duration: 3s;
   animation-delay: .5s;
   animation-iteration-count: infinite;
+  color: #f35626;
+  background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 5rem;
 }
 @-webkit-keyframes bounce {
   from,
